@@ -1,2 +1,1 @@
-this is file1
-append
+this is edited file
